@@ -1,6 +1,5 @@
 # 30DiasCSS
 <br>
-<br>
 * Desafio dia 01 - Ícone de mídia social em camadas<br>
 * Desafio dia 02 - Loader animado<br>
 * Desafio dia 03 - Mudança de cor de texto quando entra em outra div<br>
@@ -31,6 +30,6 @@
 * Desafio dia 28 - cor do background mudando<br>
 * Desafio dia 29 - Menu responsivo com Media Queries<br>
 * Desafio dia 30 - Fogos de artificio<br>
-
+<br>
 Créditos: https://github.com/MilenaCarecho/30diasDeCSS<br>
 Obrigada Milena!
